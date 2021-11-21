@@ -1,0 +1,1 @@
+MariBisnis ingin mengetahui trend bisnis dari penjualan rumah yang ada di Amerika Serikat. Harapannya, MariBisnis dapat untuk memprediksi harga suatu rumah dan melalukan pemetaan terhadap sebaran data yang ada
